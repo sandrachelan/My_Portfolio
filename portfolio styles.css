@@ -1,0 +1,101 @@
+/* Common Css Section */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font: 1em sans-serif;
+}
+html {
+    font-size: 14px;
+    font-weight: 400;
+    background: black;
+    color: #fff;
+}
+.cointainer{
+    width: 1100px;
+    margin: 0px auto;
+    display: table;
+
+}
+/* menu section */
+.logo{
+    font-size: 40px;
+    font-weight: 600;
+
+}
+.span-col{
+    color: ffbf35;
+}
+nav{
+    float: right;
+}
+nav a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 20px;
+    color: #fff;
+}
+.banner -section{
+    width: 100%;
+    float: left;
+    margin-top: 25vh;
+}
+.banner section h1{
+    font-size: 48px;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+.banner section h2{
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.banner -section a{
+    float: left;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 20px;
+    border-radius: 50%;
+    text-align: center;
+    border: 2px solid #ffbf35;
+    color: #ffbf35;
+    margin-left: 10px;
+    height: 50px;
+    width:50px ;
+    line-height: 50px;
+    
+    
+
+}
+/* Main banner */
+.main-panel img{
+    margin-top: 10%;
+    width: 100%;
+    margin-left: 10%;
+}
+/* footer section */
+.footer{
+    background-color: #202020;
+    padding: 30px 0px 40px 0px ;
+    width: 100px;
+}
+.footer-sect{ color:#b3b3b3;
+    margin-left: #b3b3b3;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+
+}
+.social icon a i {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #cdcdcd;
+    line-height: 50px;
+    font-size: 20px;
+    border-radius: 50%;
+}
+
+
